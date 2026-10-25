@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "crusty_chunks:scout",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:hunter",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:raidscout",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:reaper",
+      "required": false
+    }
+  ]
+}

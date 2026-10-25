@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "crusty_chunks:striker",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:rifler",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:worker",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:commander",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:breacher",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:mortarer",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:prototype_hull",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:eradicator_hull",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:decimator_hull",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "crusty_chunks:artillery_fire_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:artillery_solid_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:block_buster_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:bunker_buster_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:cluster_bomb_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:cluster_rocket",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:fire_artillery_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:fire_bomb_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:fire_spear_rocket_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:gas_artillery_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:gas_bomb_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:incindiary_rocket_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:ir_missile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:large_bomb_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:large_radar_missile_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:large_rocket",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:large_solid_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:medium_bomb_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:mortar_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:nuclear_bomb_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:ordinance_fusion_bomb_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:radar_spear_missile_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:rocket",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:seeker_spear_missile_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:strike_spear_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:super_large_bomb_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:tank_fire_projectile",
+      "required": false
+    },
+    {
+      "id": "crusty_chunks:thermal_projectile",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+modLoader="javafml"
+loaderVersion="[47,48)"
+license="MIT"
+
+[[mods]]
+modId="warium_sbw_compat"
+version="${mod_version}"
+displayName="[SBW] Superb Warfare&Warium"
+authors="Yaseen"
+displayTest="IGNORE_ALL_VERSION"
+description='''Open-source MIT compatibility bridge by Yaseen for Warium and Superb Warfare. Optional radar, electronic warfare, CC:Tweaked and air-defense integrations are enabled only when installed.'''
+
+[[dependencies.warium_sbw_compat]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.warium_sbw_compat]]
+modId="crusty_chunks"
+mandatory=true
+versionRange="[1.3.5,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.warium_sbw_compat]]
+modId="superbwarfare"
+mandatory=true
+# Pinned to the 0.8.9 line on purpose: 0.8.9.2 is the only version this bridge was
+# verified against, and newer SBW releases may change entity ids or tag layout.
+versionRange="[0.8.9,0.8.10)"
+ordering="AFTER"
+side="BOTH"
